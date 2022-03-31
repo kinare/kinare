@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/2601140e-1bed-492a-baf4-f32467fda7bd.svg)](https://wakatime.com/@2601140e-1bed-492a-baf4-f32467fda7bd)
+
 <!--
 **kinare/kinare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
